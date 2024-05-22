@@ -105,13 +105,14 @@ body{
   border:1px solid black;
   margin:5px;
 }
-.iai>img{
+
+.htc>img{
   height:50px;
   width:50px;
   border:1px solid black;
    margin:5px;
 }
-.htc>img{
+.cgi>img{
   height:50px;
   width:50px;
   border:1px solid black;
@@ -127,12 +128,13 @@ body{
   justify-content:space-evenly;
 
 }
-.iai{
+
+.htc{
   display:flex;
   justify-content:space-evenly;
 
 }
-.htc{
+.cgi{
   display:flex;
   justify-content:space-evenly;
 
@@ -147,7 +149,7 @@ footer{
   text-align:center;
   font-size:50px;
 }
-.iai{
+.cgi{
   font-size:25px;
 }
 .loreto{
